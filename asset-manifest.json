@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/mabcalc/static/css/main.9b7b9694.css",
-    "main.js": "/mabcalc/static/js/main.4f352d7c.js",
+    "main.css": "/mabcalc/static/css/main.42362da2.css",
+    "main.js": "/mabcalc/static/js/main.5070cee7.js",
     "static/js/787.8341fb4c.chunk.js": "/mabcalc/static/js/787.8341fb4c.chunk.js",
+    "static/media/covidout.png": "/mabcalc/static/media/covidout.4a9c576e195735b95f4d.png",
     "static/media/roboto-all-500-normal.woff": "/mabcalc/static/media/roboto-all-500-normal.52cb737b682eb9661ee1.woff",
     "static/media/roboto-all-700-normal.woff": "/mabcalc/static/media/roboto-all-700-normal.ef6d1d09b20b877fee4e.woff",
     "static/media/roboto-all-400-normal.woff": "/mabcalc/static/media/roboto-all-400-normal.376ea5d93f71583052f6.woff",
@@ -36,12 +37,12 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/mabcalc/static/media/roboto-greek-ext-300-normal.04e05839d6a35e046c13.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "/mabcalc/static/media/roboto-greek-ext-700-normal.9674bc0ae12c2551d9d1.woff2",
     "index.html": "/mabcalc/index.html",
-    "main.9b7b9694.css.map": "/mabcalc/static/css/main.9b7b9694.css.map",
-    "main.4f352d7c.js.map": "/mabcalc/static/js/main.4f352d7c.js.map",
+    "main.42362da2.css.map": "/mabcalc/static/css/main.42362da2.css.map",
+    "main.5070cee7.js.map": "/mabcalc/static/js/main.5070cee7.js.map",
     "787.8341fb4c.chunk.js.map": "/mabcalc/static/js/787.8341fb4c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b7b9694.css",
-    "static/js/main.4f352d7c.js"
+    "static/css/main.42362da2.css",
+    "static/js/main.5070cee7.js"
   ]
 }
