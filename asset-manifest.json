@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mabcalc/static/css/main.c09c174f.css",
-    "main.js": "/mabcalc/static/js/main.8be67396.js",
+    "main.js": "/mabcalc/static/js/main.3190a77e.js",
     "static/js/787.8341fb4c.chunk.js": "/mabcalc/static/js/787.8341fb4c.chunk.js",
     "static/media/covidout.png": "/mabcalc/static/media/covidout.4a9c576e195735b95f4d.png",
     "static/media/roboto-all-500-normal.woff": "/mabcalc/static/media/roboto-all-500-normal.52cb737b682eb9661ee1.woff",
@@ -39,11 +39,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/mabcalc/static/media/roboto-greek-ext-700-normal.9674bc0ae12c2551d9d1.woff2",
     "index.html": "/mabcalc/index.html",
     "main.c09c174f.css.map": "/mabcalc/static/css/main.c09c174f.css.map",
-    "main.8be67396.js.map": "/mabcalc/static/js/main.8be67396.js.map",
+    "main.3190a77e.js.map": "/mabcalc/static/js/main.3190a77e.js.map",
     "787.8341fb4c.chunk.js.map": "/mabcalc/static/js/787.8341fb4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c09c174f.css",
-    "static/js/main.8be67396.js"
+    "static/js/main.3190a77e.js"
   ]
 }
